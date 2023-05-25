@@ -6,6 +6,7 @@ Quick and dirty [Xenforo](https://xenforo.com/) Forum accounts checker using [Un
 **Only used for testing some stuff, has:**
 - 📶 Proxy support
 - ☁ Cloudflare detection and handling
+- 🎨 Colors
 
 If your site is heavily protected, I recommended using good res proxies.
 
