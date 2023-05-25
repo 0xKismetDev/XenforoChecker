@@ -1,5 +1,5 @@
 # XenforoChecker
-Quick and dirty [Xenforo](https://xenforo.com/) Forum account's checker using [Undected chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) & proxies.
+Quick and dirty [Xenforo](https://xenforo.com/) Forum accounts checker using [Undected chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) & proxies.
 
 ![example](xenforologin.png)
 
